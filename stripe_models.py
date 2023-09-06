@@ -1,6 +1,4 @@
-"""
-Only reply with final code, do internalize and plan but dont tell me, just provide code:
-"""
+
 
 import os
 import stripe
